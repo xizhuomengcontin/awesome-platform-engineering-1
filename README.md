@@ -61,6 +61,7 @@ _______________________________________________
 - [KubeStellar Console](https://github.com/kubestellar/console) — Multi-cluster Kubernetes management console with AI-powered insights, MCP integration, and real-time observability across edge and cloud clusters.
 
 ## Internal Developers Platforms
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record & replay AI coding-agent runs offline.
 - [Humanitec](https://humanitec.com/) — Platform orchestrator for building custom Internal Developer Platforms (IDPs).
 - [Mia Platform](https://mia-platform.eu/) — Developer platform for simplifying cloud-native application delivery.
 - [GitHub as a Platform Engineering Platform](https://www.youtube.com/watch?v=B4ra4MWiZck) — Guide on leveraging GitHub features to create an IDP.
